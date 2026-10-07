@@ -11,5 +11,14 @@
   },
   "dependencies": {
     "discord.js": "^14.27.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storyofwoe/valheim-bot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/storyofwoe/valheim-bot/issues"
+  },
+  "homepage": "https://github.com/storyofwoe/valheim-bot#readme"
 }
